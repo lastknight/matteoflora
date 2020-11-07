@@ -1096,7 +1096,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .u-promo-block--mheight-600 {
-  min-height: 500px;
+  min-height: 600px;
 }
 
 @media (max-width: 1199px) {
