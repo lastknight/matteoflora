@@ -1096,12 +1096,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .u-promo-block--mheight-600 {
-  min-height: 600px;
+  min-height: 500px;
 }
 
 @media (max-width: 1199px) {
   .u-promo-block {
-    background-attachment: fixed;
+    background-attachment: initial;
   }
 }
 
