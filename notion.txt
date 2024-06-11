@@ -1,2 +1,3 @@
-antani:b809571ad7346f0e06ab81e8c2267c41
-admin:b251d7b65528a12bbcac099b05a4dbca
+antani:tapioco
+user:password
+matteo:alpaca
