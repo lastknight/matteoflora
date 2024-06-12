@@ -3,3 +3,4 @@ user:password
 matteo:alpaca
 michela:bruxelles
 mirko:giardiniera
+taor:architect
