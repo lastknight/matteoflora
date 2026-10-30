@@ -1,2 +1,8 @@
 /scusa https://scusa.matteoflora.com/ 302
 /scusa/* https://scusa.matteoflora.com/:splat 302
+/Scusa https://scusa.matteoflora.com/ 302
+/Scusa/* https://scusa.matteoflora.com/:splat 302
+/SCUSA https://scusa.matteoflora.com/ 302
+/SCUSA/* https://scusa.matteoflora.com/:splat 302
+/scusa! https://scusa.matteoflora.com/ 302
+/SCUSA! https://scusa.matteoflora.com/ 302
